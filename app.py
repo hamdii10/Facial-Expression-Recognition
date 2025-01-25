@@ -11,8 +11,8 @@ model = tf.keras.models.load_model(model_path)
 
 # Load model
 #Uncomment the following to lines to run the streamlit local
-''' model = tf.keras.models.load_model("X:/FER/model.keras")
-'''
+#model = tf.keras.models.load_model("X:/FER/model.keras")
+
 
 class_names = {0: "Angry", 1: "Disgust", 2: "Fear", 3: "Happy", 4: "Neutral", 5: "Sad", 6: "Surprise"}
 
