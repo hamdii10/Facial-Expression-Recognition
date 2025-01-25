@@ -56,7 +56,7 @@ facial-expression-recognition/
    ```  
 
 2. **Upload an image**:  
-   - Supported formats: JPEG, PNG  
+   - Supported formats: JPG, JPEG, PNG  
 
 3. **Predict**:  
    - Click the "Predict" button to view the detected facial expression.  
