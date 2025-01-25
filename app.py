@@ -6,7 +6,7 @@ from PIL import Image, ImageOps
 
 #the two lines below for streamlit online (anyone can access)
 model_path = os.path.join('models', 'model.keras')
-model = tf.keras.models.load_model(open(model_path, 'rb'))
+model = tf.keras.models.load_model(open(model_path))
 
 
 # Load model
