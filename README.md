@@ -11,7 +11,7 @@ This repository contains a facial expression recognition application built using
 
 ## Try the App  
 
-You can try the live version of this app here: [Facial Expression Recognition App](https://facial-expression-recognition.streamlit.app/)  
+You can try the live version of this app here: [Facial Expression Recognition App](https://facial-expression-recognition-hamdii.streamlit.app/)  
 
 ## Installation  
 
